@@ -4,7 +4,7 @@ var config = {
     authDomain: "feedback-26db5.firebaseapp.com",
     databaseURL: "https://feedback-26db5.firebaseio.com",
     projectId: "feedback-26db5",
-    storageBucket: "feedback-26db5.appspot.com",
+    storageBucket: "",
     messagingSenderId: "120622055508"
   };
 firebase.initializeApp(config);
